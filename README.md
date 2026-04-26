@@ -2,6 +2,8 @@
 
 This repository contains well-organized study notes for **Cloud Computing (CC)** focusing on **Unit 3** and **Unit 4**. It is designed to help students quickly revise key concepts, prepare for exams, and understand core topics efficiently.
 
+https://shashwatsolanki.github.io/CC_Unit3_and_Unit4/CC_Units3_4_StudyNotes.html
+
 ---
 
 ## Contents
